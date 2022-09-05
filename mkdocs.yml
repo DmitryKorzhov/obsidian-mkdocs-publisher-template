@@ -1,10 +1,9 @@
-site_name: your_site_name
-site_description: A cool description
+site_name: Improvado
+site_description: 
 site_url: https://change_me.io/
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
